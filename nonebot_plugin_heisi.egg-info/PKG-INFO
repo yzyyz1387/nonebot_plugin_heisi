@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: nonebot-plugin-heisi
+Version: 0.0.1
+Summary: nonebot2 plugin heisi
+Home-page: https://github.com/yzyyz1387/nonebot_plugin_heisi
+Author: yzyyz1387
+Author-email: youzyyz1384@qq.com
+License: UNKNOWN
+Keywords: pip,nonebot2,nonebot,heisi,nonebot_plugin
+Platform: any
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
 <p align="center">
   <a href="https://v2.nonebot.dev/"><img src="https://raw.githubusercontent.com/nonebot/nonebot2/master/docs/.vuepress/public/logo.png" width="200" height="200" alt="nonebot"></a>
 </p>
@@ -48,5 +63,7 @@ heisi_cd=30 #黑丝cd时间（s）
 ## 截图🖼
 
 没有
+
+
 
 
