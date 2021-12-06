@@ -1,3 +1,4 @@
 build/
 dist/
-nonebot_plugin_workscore.egg-info/
+nonebot_plugin_heisi.egg-info/
+.gitignoer
