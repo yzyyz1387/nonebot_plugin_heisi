@@ -1,11 +1,12 @@
 import setuptools
-import sys,io
-with open("README.md", "r",encoding="utf-8",errors="ignore") as fh:
+import sys, io
+
+with open("README.md", "r", encoding="utf-8", errors="ignore") as fh:
     long_description = fh.read()
 
 setuptools.setup(
     name="nonebot-plugin-heisi",
-    version="0.0.1",
+    version="0.0.2",
     author="yzyyz1387",
     author_email="youzyyz1384@qq.com",
     keywords=("pip", "nonebot2", "nonebot", "heisi", "nonebot_plugin"),
@@ -21,9 +22,5 @@ setuptools.setup(
     ],
     include_package_data=True,
     platforms="any",
-    install_requires=["requests"]
+    install_requires=["requests", 'nonebot-adapter-onebot>=2.0.0-beta.1,<3.0.0','nonebot2>=2.0.0-beta.1,<3.0.0',]
 )
-
-
-
-
