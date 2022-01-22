@@ -23,7 +23,7 @@ his = on_command("his", aliases={".黑丝", ".丝袜"})
 
 
 @his.handle()
-async def _(bot: Bot, event: GroupMessageEvent, state: T_State):
+async def _(bot: Bot, event: GroupMessageEvent):
     gid = str(event.group_id)
     if not os.path.exists(path):
         logger.info("创建资源路径")

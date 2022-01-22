@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8", errors="ignore") as fh:
 
 setuptools.setup(
     name="nonebot-plugin-heisi",
-    version="0.0.2",
+    version="0.0.3",
     author="yzyyz1387",
     author_email="youzyyz1384@qq.com",
     keywords=("pip", "nonebot2", "nonebot", "heisi", "nonebot_plugin"),
