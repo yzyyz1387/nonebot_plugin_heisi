@@ -1,12 +1,15 @@
 <p align="center">
-  <a href="https://v2.nonebot.dev/"><img src="https://raw.githubusercontent.com/nonebot/nonebot2/master/docs/.vuepress/public/logo.png" width="200" height="200" alt="nonebot"></a>
+  <a href="https://v2.nonebot.dev/"><img src="https://v2.nonebot.dev/logo.png" width="200" height="200" alt="nonebot"></a>
 </p>
+
 
 <div align="center">
 
 # Hei Si
 
-_✨ NoneBot2 黑丝 ✨_
+_✨ NoneBot2 黑丝 （备考中，可能会更新）✨_
+
+  **由于jsd在国内无法访问的问题，国内服务器或无法使用，待后续更新**
 
 </div>
 
