@@ -29,7 +29,7 @@ async def _(bot: Bot, event: GroupMessageEvent):
         logger.info("创建资源路径")
         os.mkdir(path)
     if not os.path.exists(path + "/heisi.txt"):
-        where_heisi = requests.get("https://cdn.jsdelivr.net/gh/yzyyz1387/blogimages/nonebot/heisi.txt").text
+        where_heisi = requests.get("https://fastly.jsdelivr.net/gh/yzyyz1387/blogimages/nonebot/heisi.txt").text
         logger.info(f"从gayhub下载资源文件  {path}/heisi.txt")
         with open(path + "/heisi.txt", "w", encoding="utf-8") as heisitxt:
             heisitxt.write(where_heisi)
