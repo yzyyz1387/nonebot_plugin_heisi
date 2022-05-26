@@ -13,7 +13,8 @@
 
 _✨ NoneBot2 黑丝 （备考中，可能会更新）✨_
 
-  **由于jsd在国内无法访问的问题，国内服务器或无法使用，待后续更新**
+  **由于jsd在国内无法访问的问题，国内服务器或无法使用，pypi暂未更新，可食用github最新版**  
+  **见[commit155e479](https://github.com/yzyyz1387/nonebot_plugin_heisi/commit/155e4796c883d4448a85647ed3afadd4403375b7)**
 
 </div>
 
