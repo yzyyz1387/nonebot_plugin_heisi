@@ -1,3 +1,4 @@
-nonebot==1.9.1
-requests==2.26.0
-setuptools==58.5.3
+httpx
+setuptools
+nonebot2>=2.0.0-beta.1
+nonebot-adapter-onebot>=2.0.0-beta.1
