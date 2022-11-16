@@ -6,7 +6,7 @@
 <div align="center">
 
    
-**你的star是我的动力**  
+**此插件不再维护**  
 **↓**  
 <img src="https://img.shields.io/github/stars/yzyyz1387/nonebot_plugin_heisi.svg?style=social">  
 # Hei Si
