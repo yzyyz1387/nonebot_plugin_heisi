@@ -5,7 +5,7 @@
 
 <div align="center">
 
-   
+**原来爬取的图片现不可用**
 **此插件不再维护**  
 **↓**  
 <img src="https://img.shields.io/github/stars/yzyyz1387/nonebot_plugin_heisi.svg?style=social">  
